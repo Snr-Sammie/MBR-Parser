@@ -1,0 +1,7 @@
+os
+binascii
+re
+functools
+textwrap
+struct
+optparse
